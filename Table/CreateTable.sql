@@ -1,2 +1,3 @@
 -- CREATE TABLE TABLE_NAME (COLUMN NAME DATATYPE);
 CREATE TABLE STUDENT ( Name Char(20), Age Number(2), Rollno Varchar(10)); 
+ 
